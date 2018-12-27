@@ -8,6 +8,7 @@ target/
 /*/.factorypath
 /*/.springBeans
 /*/target
+/*/test-output/
 
 ### IntelliJ IDEA ###
 /*/.idea
